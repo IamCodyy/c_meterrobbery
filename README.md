@@ -3,6 +3,9 @@ A simple parking meter robbery script using QBCore, qb-target, PS Dispatch and P
 
 This is my first one, so any improvements that you guys have, submit a pull request.
 
+## To-do
+- Set up required police
+
 ### Dependencies:
 
 - [qb-target](https://github.com/qbcore-framework/qb-target)
